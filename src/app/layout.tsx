@@ -3,8 +3,8 @@ import "./globals.css";
 import { SolanaProvider } from "@/components/SolanaProvider";
 
 export const metadata: Metadata = {
-  title: "Privment",
-  description: "Evade the middleman",
+  title: "Frontend Solana Scaffold",
+  description: "IBRL",
 };
 
 export default function RootLayout({
